@@ -1,0 +1,5 @@
+*****Depth-first, in-order tree traversal******* 
+
+
+Student Name: LaPorte ID: 8400342 Dept: 45 Program: JA Year: 1
+Student Name: McKay ID: 8534534 Dept: 251 Program: CT Year: 1

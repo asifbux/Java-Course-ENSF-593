@@ -1,0 +1,34 @@
+*****Depth-first, in-order tree traversal******* 
+
+
+Student Name: Appleford ID: 8503881 Dept: 251 Program: EST Year: 1
+Student Name: Banks ID: 8500453 Dept: 251 Program: EST Year: 1
+Student Name: Bannister ID: 8301164 Dept: 251 Program: EST Year: 1
+Student Name: Black ID: 8499120 Dept: 341 Program: RST Year: 1
+Student Name: Card ID: 8422991 Dept: 45 Program: JA Year: 2
+Student Name: Doyle ID: 8399000 Dept: 334 Program: ENT Year: 1
+Student Name: Fisher ID: 8508883 Dept: 341 Program: TXT Year: 1
+Student Name: Green ID: 8400912 Dept: 45 Program: RFM Year: 1
+Student Name: Hall ID: 8488431 Dept: 341 Program: RST Year: 1
+Student Name: Hopper ID: 8322189 Dept: 251 Program: CT Year: 1
+Student Name: Johnston ID: 8422911 Dept: 341 Program: RST Year: 1
+Student Name: Jones ID: 8306700 Dept: 251 Program: CT Year: 2
+Student Name: Jordan ID: 8399129 Dept: 334 Program: ENT Year: 1
+Student Name: LaPorte ID: 8400342 Dept: 45 Program: JA Year: 1
+Student Name: Last ID: 8300500 Dept: 251 Program: CT Year: 1
+Student Name: McKay ID: 8534534 Dept: 251 Program: CT Year: 1
+Student Name: Morrison ID: 8322889 Dept: 45 Program: JA Year: 3
+Student Name: Newman ID: 8322188 Dept: 251 Program: CT Year: 2
+Student Name: Phillips ID: 8412094 Dept: 251 Program: EST Year: 1
+Student Name: Schafer ID: 8212399 Dept: 251 Program: EST Year: 1
+Student Name: Smith ID: 8400001 Dept: 251 Program: CT Year: 2
+Student Name: Sykes ID: 8255999 Dept: 451 Program: WET Year: 2
+Student Name: Walker ID: 8300000 Dept: 341 Program: TXT Year: 1
+Student Name: Waters ID: 8499341 Dept: 341 Program: TXT Year: 1
+Student Name: Watson ID: 8400000 Dept: 334 Program: ENT Year: 2
+Student Name: Watts ID: 8500060 Dept: 341 Program: RST Year: 1
+Student Name: West ID: 8500000 Dept: 334 Program: ENT Year: 1
+Student Name: Weston ID: 8301234 Dept: 334 Program: ENT Year: 2
+Student Name: White ID: 8367091 Dept: 341 Program: TXT Year: 1
+Student Name: Woods ID: 8388231 Dept: 251 Program: CT Year: 1
+Student Name: Zot ID: 8599999 Dept: 451 Program: WET Year: 1
